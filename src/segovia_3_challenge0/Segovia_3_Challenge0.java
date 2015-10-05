@@ -24,7 +24,7 @@ public class Segovia_3_Challenge0 {
             System.out.println("Herr Direktor");
         }else if (isDivisibleByTwo(i) && isDivisibleByEleven(i)){
             System.out.println("ninja");
-        }else if (isDivisibleByTwo(i) && isDivisibleByThree(i) && isDivisibleByTwo(i)){
+        }else if (isDivisibleByTwo(i) && isDivisibleByThree(i) && isDivisibleByFive(i)){
             System.out.println("Team Building");
         }else if (isDivisibleByThree(i) && isDivisibleByFive(i)){
             System.out.println("Old School");
